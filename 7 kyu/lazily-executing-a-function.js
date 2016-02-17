@@ -5,17 +5,3 @@ var make_lazy = function (fn, ...args) {
     return fn(...args);
   }
 };
-
-// alternative solution
-var make_lazy = function (fn, ...args) {
-  return function() {
-    return fn(...args);
-  };
-};
-
-// alternative solution
-var make_lazy = function (fn, ...args) {
-  return function(){
-    return fn(...args)
-  }
-};

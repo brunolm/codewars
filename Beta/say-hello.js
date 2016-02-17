@@ -4,28 +4,3 @@ function greet(name){
   if(!name) return null;
   return `hello ${name}!`;
 }
-
-// alternative solution
-function greet(name) {
-if (!name) return null;
-return `hello ${name}!`;
-}
-
-// alternative solution
-function greet(name) {
-  if(!name) return null;
-  return `hello ${name}!`;
-}
-
-// alternative solution
-function greet(name) {
-  if (!name) return null;
-  return `hello ${name}!`
-}
-
-// alternative solution
-function greet (name) {
-  if(!name) return null;
-  
-  return `hello ${name}!`;
-}

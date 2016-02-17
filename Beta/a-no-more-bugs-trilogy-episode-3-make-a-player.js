@@ -5,12 +5,3 @@ class Player {
     Object.assign(this, { name, position, age, dribbling, pass, shoot })
   }
 }
-
-// alternative solution
-class Player {
-  constructor(name, position, age, dribbling, pass, shoot) {
-    Object.assign(this, {
-      name, position, age, dribbling, pass, shoot
-    });
-  }
-}

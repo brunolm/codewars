@@ -5,16 +5,3 @@ function greetingForAllFriends(friends){
   
   return friends.map(f => `Hello, ${f}!`);
 }
-
-// alternative solution
-function greetingForAllFriends(friends){
-  if (!friends || !friends.length) return null;
-  
-  return friends.map(f => `Hello, ${f}!`);
-}
-
-// alternative solution
-function greetingForAllFriends(friends){
-  if (!friends || !friends.length) return null;
-  return friends.map(f =>`Hello, ${f}!`);
-}

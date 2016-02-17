@@ -3,14 +3,3 @@
 function countSheeps(arrayOfSheep) {
   return arrayOfSheep.filter(s =>s).length;
 }
-
-// alternative solution
-function countSheeps(arrayOfSheep) {
-  return arrayOfSheep.filter(s => s).length;
-}
-
-// alternative solution
-function countSheeps(arrayOfSheep) {
-  return arrayOfSheep.filter( (s)=> s).length
-  // TODO May the force be with you
-}

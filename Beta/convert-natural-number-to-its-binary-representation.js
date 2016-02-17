@@ -3,8 +3,3 @@
 function intToBin(number) {
   return number.toString(2);
 }
-
-// alternative solution
-function intToBin (number) {
-  return number.toString(2);
-}

@@ -4,10 +4,3 @@ const getSize = (width, height, depth) => [
   2 * width * height + 2 * height * depth + 2 * width * depth,
   width * height * depth
 ];
-
-
-// alternative solution
-const getSize = (width,height,depth) => [2*width*height + 2*height*depth + 2*width*depth,width*height*depth]
-
-// alternative solution
-const getSize = (width, height, depth) => [2 * width * height + 2 * height * depth + 2 * width * depth, width * height * depth];

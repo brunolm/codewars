@@ -3,21 +3,6 @@
 const twoDecimalPlaces = n => +n.toFixed(2)
 
 // alternative solution
-const twoDecimalPlaces = n => +n.toFixed(2);
-
-// alternative solution
-const twoDecimalPlaces = n => (+n.toFixed(2))
-
-// alternative solution
-const twoDecimalPlaces = (n) => +n.toFixed(2);
-
-// alternative solution
-const twoDecimalPlaces = (n) => + n.toFixed(2);
-
-// alternative solution
-const twoDecimalPlaces = (n) => +n.toFixed(2)
-
-// alternative solution
 const twoDecimalPlaces = n => Math.round10(n, -2);
 
 (function() {

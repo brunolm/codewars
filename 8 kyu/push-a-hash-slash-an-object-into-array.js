@@ -2,8 +2,3 @@
 
 let items = [];
 items.push({ a: "b", c: "d" });
-
-
-// alternative solution
-let items = [];
-items.push({a: "b", c: "d"});

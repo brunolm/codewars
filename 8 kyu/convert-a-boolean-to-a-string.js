@@ -3,23 +3,3 @@
 function booleanToString(b){
   return b+'';
 }
-
-// alternative solution
-function booleanToString(b){
-  return b + '';
-}
-
-// alternative solution
-function booleanToString(b){
-  return b+''
-}
-
-// alternative solution
-function booleanToString(b){
-  return b+"";
-}
-
-// alternative solution
-function booleanToString(b){
-  return b + ''
-}

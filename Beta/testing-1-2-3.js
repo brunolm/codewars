@@ -3,13 +3,3 @@
 var number=function(array){
   return array.map((x, i) => `${i+1}: ${x}`);
 }
-
-// alternative solution
-var number=function(array){
-  return array.map((x, i) => `${i + 1}: ${x}`);
-}
-
-// alternative solution
-var number=function(array){
-  return array.map((x,i) => `${i+1}: ${x}`);
-}

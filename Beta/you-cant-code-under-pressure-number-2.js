@@ -5,12 +5,3 @@ function Counter(){
   this.check=()=>i;
   this.increment=()=>++i;
 };
-
-// alternative solution
-function Counter() {
-  var i = 0;
-  //quickly, now!
-  this.check = () => i;
-  this.increment = () => ++i;
-
-};

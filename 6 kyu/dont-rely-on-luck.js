@@ -2,12 +2,3 @@
 
 Math.floor = () => 0
 var guess = 0
-
-// alternative solution
-Math.floor = () => 0;
-
-var guess = 0;
-
-// alternative solution
-Math.floor = () => 0;
-var guess = 0;
