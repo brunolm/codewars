@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/replace-multiples-with-string/solutions/javascript/me
+// http://www.codewars.com/kata/replace-multiples-with-string
 
 function getNumber(number){
   let mul3 = !(number % 3);

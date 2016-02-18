@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/caesar-cipher-helper/solutions/javascript/me
+// http://www.codewars.com/kata/caesar-cipher-helper
 
 class CaesarCipher {
   constructor(shift) {

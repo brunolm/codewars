@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/undo-slash-redo/solutions/javascript/me
+// http://www.codewars.com/kata/undo-slash-redo
 
 function undoRedo(object) {
   return {

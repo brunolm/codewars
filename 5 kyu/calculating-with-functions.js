@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/calculating-with-functions/solutions/javascript/me
+// http://www.codewars.com/kata/calculating-with-functions
 
 zero = c => c ? c(0) : 0;
 one = c => c ? c(1) : 1;

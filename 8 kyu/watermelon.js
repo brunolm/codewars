@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/watermelon/solutions/javascript/me
+// http://www.codewars.com/kata/watermelon
 
 function divide(weight){
   return weight > 2 && !(weight & 1);

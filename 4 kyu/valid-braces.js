@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/valid-braces/solutions/javascript/me
+// http://www.codewars.com/kata/valid-braces
 
 function validBraces(braces){
   let closingMap = {

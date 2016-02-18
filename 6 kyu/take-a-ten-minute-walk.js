@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/take-a-ten-minute-walk/solutions/javascript/me
+// http://www.codewars.com/kata/take-a-ten-minute-walk
 
 const isValidWalk = (walk) => {
   if (walk.length !== 10) return false;

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/diffuse-the-bombs/solutions/javascript/me
+// http://www.codewars.com/kata/diffuse-the-bombs
 
 let key = Bomb.key;
 

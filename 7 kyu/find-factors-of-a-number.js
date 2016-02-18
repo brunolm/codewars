@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/find-factors-of-a-number/solutions/javascript/me
+// http://www.codewars.com/kata/find-factors-of-a-number
 
 const factors = (x) => {
   if (x !== ~~x || x < 1) return -1;

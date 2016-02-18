@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/return-substring-instance-count-2/solutions/javascript/me
+// http://www.codewars.com/kata/return-substring-instance-count-2
 
 var searchSubstr = (t, s, o = true) => o ? yes(t, s) : no(t, s);
 

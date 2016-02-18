@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/flatten/solutions/javascript/me
+// http://www.codewars.com/kata/flatten
 
 function flatten(...l) {
   return l.reduce((a, b) => {

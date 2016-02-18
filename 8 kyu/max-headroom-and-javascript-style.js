@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/max-headroom-and-javascript-style/solutions/javascript/me
+// http://www.codewars.com/kata/max-headroom-and-javascript-style
 
 function getMax1()
 {

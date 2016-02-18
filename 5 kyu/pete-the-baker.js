@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/pete-the-baker/solutions/javascript/me
+// http://www.codewars.com/kata/pete-the-baker
 
 function cakes(recipe, available) {
   let max = 0;

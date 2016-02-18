@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/need-change/solutions/javascript/me
+// http://www.codewars.com/kata/need-change
 
 function getChange(m) {
   let r = {};

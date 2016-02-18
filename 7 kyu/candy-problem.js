@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/candy-problem/solutions/javascript/me
+// http://www.codewars.com/kata/candy-problem
 
 function candies(kids) {
   if (!kids || kids.length <= 1) return -1;

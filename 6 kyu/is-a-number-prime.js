@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/is-a-number-prime/solutions/javascript/me
+// http://www.codewars.com/kata/is-a-number-prime
 
 const isPrime = n => {
   if (n <= 1) return false;

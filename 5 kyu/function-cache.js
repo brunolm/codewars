@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/function-cache/solutions/javascript/me
+// http://www.codewars.com/kata/function-cache
 
 const cache = fn => {
   this.c = {};

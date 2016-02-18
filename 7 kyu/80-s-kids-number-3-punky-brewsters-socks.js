@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/80-s-kids-number-3-punky-brewsters-socks/solutions/javascript/me
+// http://www.codewars.com/kata/80-s-kids-number-3-punky-brewsters-socks
 
 function getSocks(name, socks) {
   if (name === 'Henry') {

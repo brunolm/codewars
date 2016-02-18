@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/anonymous-returns/solutions/javascript/me
+// http://www.codewars.com/kata/anonymous-returns
 
 name = 'The Window';
 

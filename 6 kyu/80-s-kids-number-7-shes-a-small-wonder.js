@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/80-s-kids-number-7-shes-a-small-wonder/solutions/javascript/me
+// http://www.codewars.com/kata/80-s-kids-number-7-shes-a-small-wonder
 
 class Robot {
   constructor() {

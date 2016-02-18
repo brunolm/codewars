@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/regexp-basics-parsing-time/solutions/javascript/me
+// http://www.codewars.com/kata/regexp-basics-parsing-time
 
 String.prototype.toSeconds = function() {
   let m = this.valueOf().match(/^(\d{2}):([0-5]\d):([0-5]\d)$/);

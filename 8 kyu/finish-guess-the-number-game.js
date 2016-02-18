@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/finish-guess-the-number-game/solutions/javascript/me
+// http://www.codewars.com/kata/finish-guess-the-number-game
 
 class Guesser {
   constructor(number, lives) {

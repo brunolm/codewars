@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/iterator-basics/solutions/javascript/me
+// http://www.codewars.com/kata/iterator-basics
 
 let counter = {
   [Symbol.iterator]() {

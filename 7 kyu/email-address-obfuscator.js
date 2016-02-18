@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/email-address-obfuscator/solutions/javascript/me
+// http://www.codewars.com/kata/email-address-obfuscator
 
 obfuscate = function(email) {
   return email.replace(/[@.]/g, (m) => {

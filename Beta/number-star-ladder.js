@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/number-star-ladder/solutions/javascript/me
+// http://www.codewars.com/kata/number-star-ladder
 
 const pattern = n => {
   let out = '1\n';

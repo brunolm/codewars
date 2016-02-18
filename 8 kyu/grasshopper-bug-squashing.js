@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/grasshopper-bug-squashing/solutions/javascript/me
+// http://www.codewars.com/kata/grasshopper-bug-squashing
 
 var health = 100
 var position = 0

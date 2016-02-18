@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/all-unique/solutions/javascript/me
+// http://www.codewars.com/kata/all-unique
 
 const hasUniqueChars = (s) => {
   let r = {};

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/addition-function-problem/solutions/javascript/me
+// http://www.codewars.com/kata/addition-function-problem
 
 function add(a, b){
   return a + b

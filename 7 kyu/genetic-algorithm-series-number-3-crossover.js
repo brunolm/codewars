@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/genetic-algorithm-series-number-3-crossover/solutions/javascript/me
+// http://www.codewars.com/kata/genetic-algorithm-series-number-3-crossover
 
 const crossover = (chromosome1, chromosome2, index) => {
   return [

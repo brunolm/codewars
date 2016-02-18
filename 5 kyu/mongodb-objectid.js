@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/mongodb-objectid/solutions/javascript/me
+// http://www.codewars.com/kata/mongodb-objectid
 
 const Mongolão = {
   'isValid': s => {

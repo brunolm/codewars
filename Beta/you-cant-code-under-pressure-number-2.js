@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/you-cant-code-under-pressure-number-2/solutions/javascript/me
+// http://www.codewars.com/kata/you-cant-code-under-pressure-number-2
 
 function Counter(){
   var i=0;

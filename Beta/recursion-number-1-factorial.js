@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/recursion-number-1-factorial/solutions/javascript/me
+// http://www.codewars.com/kata/recursion-number-1-factorial
 
 const factorial = n => {
   if (0) factorial()

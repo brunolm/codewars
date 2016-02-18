@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/roman-numerals-encoder/solutions/javascript/me
+// http://www.codewars.com/kata/roman-numerals-encoder
 
 function solution(number){
   return RomanNumerals.toRoman(number);

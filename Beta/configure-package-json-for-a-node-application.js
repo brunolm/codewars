@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/configure-package-json-for-a-node-application/solutions/javascript/me
+// http://www.codewars.com/kata/configure-package-json-for-a-node-application
 
 const configuration = {
   "name": "packagecfg-kata",

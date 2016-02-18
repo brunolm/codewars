@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/filter-unused-digits/solutions/javascript/me
+// http://www.codewars.com/kata/filter-unused-digits
 
 const unusedDigits = (...a) => {
   let s = a.join('');

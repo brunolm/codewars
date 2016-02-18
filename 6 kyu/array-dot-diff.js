@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/array-dot-diff/solutions/javascript/me
+// http://www.codewars.com/kata/array-dot-diff
 
 var array_diff = (a, b) => new Linq(a).Except(b).ToArray();
 

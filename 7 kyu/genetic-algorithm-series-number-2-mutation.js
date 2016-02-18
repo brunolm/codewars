@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/genetic-algorithm-series-number-2-mutation/solutions/javascript/me
+// http://www.codewars.com/kata/genetic-algorithm-series-number-2-mutation
 
 const mutate = (chromosome, p) => {
   let r = [];

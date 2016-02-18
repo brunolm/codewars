@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/implementing-array-dot-prototype-dot-groupby-method/solutions/javascript/me
+// http://www.codewars.com/kata/implementing-array-dot-prototype-dot-groupby-method
 
 // https://github.com/brunolm/LinqSharp/blob/master/src/linqsharp.ts
 Array.prototype.groupBy = function(fn) {

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/rot13/solutions/javascript/me
+// http://www.codewars.com/kata/rot13
 
 const rot13 = s => s.replace(/[A-Z]/g, m => rot(m, 65)).replace(/[a-z]/g, m => rot(m, 97));
 

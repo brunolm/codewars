@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/regexp-basics-parsing-mana-cost/solutions/javascript/me
+// http://www.codewars.com/kata/regexp-basics-parsing-mana-cost
 
 String.prototype.parseManaCost = function() {
   if (/[^\dwubrg]/i.test(this.valueOf())) return null;

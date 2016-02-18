@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/wordsearch/solutions/javascript/me
+// http://www.codewars.com/kata/wordsearch
 
 function wordSearch(word, text){
 console.log(word, '--------', text);

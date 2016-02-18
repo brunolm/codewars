@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/n-th-fibonacci/solutions/javascript/me
+// http://www.codewars.com/kata/n-th-fibonacci
 
 function nthFibo(n) {
   let prev = 0;

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/escape-the-mines/solutions/javascript/me
+// http://www.codewars.com/kata/escape-the-mines
 
 // TODO: refactor
 const solve = (map, miner, exit) => {

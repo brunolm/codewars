@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/absent-vowel/solutions/javascript/me
+// http://www.codewars.com/kata/absent-vowel
 
 const absentVowel = s => {
   let i = 0;

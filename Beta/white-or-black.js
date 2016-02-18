@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/white-or-black/solutions/javascript/me
+// http://www.codewars.com/kata/white-or-black
 
 const MineColor = (l, n) => {
   return mineColor(l, n);

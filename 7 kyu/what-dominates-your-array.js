@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/what-dominates-your-array/solutions/javascript/me
+// http://www.codewars.com/kata/what-dominates-your-array
 
 const dominator = a => {
   let l = new Linq(a);

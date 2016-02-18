@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/pig-sursurunga/solutions/javascript/me
+// http://www.codewars.com/kata/pig-sursurunga
 
 const sursurungal = t => t
   .replace(/\b(\d{2,}) ([^ \n]+)/g, (m, n, p1) => `${n} ga${p1.replace(/s$/, '')}ga`)

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/remember/solutions/javascript/me
+// http://www.codewars.com/kata/remember
 
 const remember = s => {
   let set = new Set();

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/regexp-basics-parsing-prices/solutions/javascript/me
+// http://www.codewars.com/kata/regexp-basics-parsing-prices
 
 String.prototype.toCents = function() {
   if (typeof +this !== 'number') return null;

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/count-the-divisible-numbers/solutions/javascript/me
+// http://www.codewars.com/kata/count-the-divisible-numbers
 
 const ThisIsFun = (x, y, k) => {
   let t = 0;

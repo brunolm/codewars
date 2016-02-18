@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/sum-of-odd-numbers/solutions/javascript/me
+// http://www.codewars.com/kata/sum-of-odd-numbers
 
 const rowSumOddNumbers = n => {
   let x = 0;

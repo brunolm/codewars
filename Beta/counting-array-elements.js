@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/counting-array-elements/solutions/javascript/me
+// http://www.codewars.com/kata/counting-array-elements
 
 const count = a => {
   let set = {};

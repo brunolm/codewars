@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/simpler-interactive-interpreter/solutions/javascript/me
+// http://www.codewars.com/kata/simpler-interactive-interpreter
 
 function Interpreter() {
   this.vars = {};

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/count-consonants/solutions/javascript/me
+// http://www.codewars.com/kata/count-consonants
 
 function consonantCount(str) {
   if (!str) {

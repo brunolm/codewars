@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/grasshopper-messi-goals/solutions/javascript/me
+// http://www.codewars.com/kata/grasshopper-messi-goals
 
 var laLigaGoals = 43
 var championsLeagueGoals = 10

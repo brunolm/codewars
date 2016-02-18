@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/create-sequence-containing-all-allowed-characters/solutions/javascript/me
+// http://www.codewars.com/kata/create-sequence-containing-all-allowed-characters
 
 const createSequence = r => {
   let x = [];

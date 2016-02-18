@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/remove-zeros/solutions/javascript/me
+// http://www.codewars.com/kata/remove-zeros
 
 const removeZeros = (array) => {
 

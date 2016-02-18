@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/swap-values/solutions/javascript/me
+// http://www.codewars.com/kata/swap-values
 
 function swapValues(args) {
   var temp = args[0];

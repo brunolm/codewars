@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/grasshopper-terminal-game-number-1/solutions/javascript/me
+// http://www.codewars.com/kata/grasshopper-terminal-game-number-1
 
 function Hero (name) {
   this.name = name || 'Hero';

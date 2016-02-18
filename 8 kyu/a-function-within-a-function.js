@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/a-function-within-a-function/solutions/javascript/me
+// http://www.codewars.com/kata/a-function-within-a-function
 
 function always(n) {
 

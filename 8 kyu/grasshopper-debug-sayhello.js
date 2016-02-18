@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/grasshopper-debug-sayhello/solutions/javascript/me
+// http://www.codewars.com/kata/grasshopper-debug-sayhello
 
 function sayHello (name) {
   return 'Hello, ' +  name;

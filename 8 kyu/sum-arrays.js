@@ -1,3 +1,3 @@
-// http://www.codewars.com/kata/sum-arrays/solutions/javascript/me
+// http://www.codewars.com/kata/sum-arrays
 
 const sum = numbers => numbers.reduce((x, y) => x + y, 0)

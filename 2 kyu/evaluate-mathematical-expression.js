@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/evaluate-mathematical-expression/solutions/javascript/me
+// http://www.codewars.com/kata/evaluate-mathematical-expression
 
 const calc = (e) => +parse(e);
 

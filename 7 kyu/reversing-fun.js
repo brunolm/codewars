@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/reversing-fun/solutions/javascript/me
+// http://www.codewars.com/kata/reversing-fun
 
 const flipNumber = (n) => {
   n = n.split('').reverse().join('');

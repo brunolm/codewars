@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/prime-factorization/solutions/javascript/me
+// http://www.codewars.com/kata/prime-factorization
 
 class PrimeFactorizer {
   constructor(n) {

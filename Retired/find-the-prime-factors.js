@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/find-the-prime-factors/solutions/javascript/me
+// http://www.codewars.com/kata/find-the-prime-factors
 
 const primeFactors = (n) => {
   if (n <= 1) return undefined;

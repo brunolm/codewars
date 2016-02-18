@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/sum-all-the-arrays/solutions/javascript/me
+// http://www.codewars.com/kata/sum-all-the-arrays
 
 const arraySum = a => a.valueOf();
 Array.prototype.valueOf = function() {

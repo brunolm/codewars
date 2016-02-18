@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/a-needle-in-the-haystack/solutions/javascript/me
+// http://www.codewars.com/kata/a-needle-in-the-haystack
 
 function findNeedle(haystack) {
   let i = haystack.indexOf('needle');

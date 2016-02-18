@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/calculate-string-rotation/solutions/javascript/me
+// http://www.codewars.com/kata/calculate-string-rotation
 
 const shiftedDiff = (f, s) => {
   if (f === s) return 0;

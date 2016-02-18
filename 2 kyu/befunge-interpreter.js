@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/befunge-interpreter/solutions/javascript/me
+// http://www.codewars.com/kata/befunge-interpreter
 
 const interpret = (code) => {
   //console.log(code);

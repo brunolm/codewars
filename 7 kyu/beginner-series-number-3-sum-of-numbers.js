@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/beginner-series-number-3-sum-of-numbers/solutions/javascript/me
+// http://www.codewars.com/kata/beginner-series-number-3-sum-of-numbers
 
 function GetSum(a, b) {
    if (a === b) {

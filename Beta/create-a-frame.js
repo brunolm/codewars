@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/create-a-frame/solutions/javascript/me
+// http://www.codewars.com/kata/create-a-frame
 
 const frame = (t, c) => {
   let max = Math.max(...(t.map(l => l.length)));

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/keypad-horror/solutions/javascript/me
+// http://www.codewars.com/kata/keypad-horror
 
 const computerToPhone = n => {
   const map = {

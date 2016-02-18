@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/list-to-array/solutions/javascript/me
+// http://www.codewars.com/kata/list-to-array
 
 function listToArray(list) {
   let r = [];

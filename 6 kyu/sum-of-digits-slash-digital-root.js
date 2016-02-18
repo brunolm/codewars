@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/sum-of-digits-slash-digital-root/solutions/javascript/me
+// http://www.codewars.com/kata/sum-of-digits-slash-digital-root
 
 const digital_root = n => {
   let r = 0;

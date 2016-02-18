@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/name-your-space/solutions/javascript/me
+// http://www.codewars.com/kata/name-your-space
 
 function namespace(root, path, value) {
   let obj = root;

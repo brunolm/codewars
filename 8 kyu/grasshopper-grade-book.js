@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/grasshopper-grade-book/solutions/javascript/me
+// http://www.codewars.com/kata/grasshopper-grade-book
 
 function getGrade (s1, s2, s3) {
   let score = (s1 + s2 + s3) / 3;

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/sleigh-authentication/solutions/javascript/me
+// http://www.codewars.com/kata/sleigh-authentication
 
 function Sleigh() {}
 

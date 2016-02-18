@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/default-plus-rest-plus-spread/solutions/javascript/me
+// http://www.codewars.com/kata/default-plus-rest-plus-spread
 
 let defaultExample = (x, y = 7) => x + y;
 

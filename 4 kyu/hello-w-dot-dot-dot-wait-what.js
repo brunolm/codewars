@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/hello-w-dot-dot-dot-wait-what/solutions/javascript/me
+// http://www.codewars.com/kata/hello-w-dot-dot-dot-wait-what
 
 var x = function () {
   let ex = !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!![];

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/moving-zeros-to-the-end/solutions/javascript/me
+// http://www.codewars.com/kata/moving-zeros-to-the-end
 
 const moveZeros = (array) => {
 

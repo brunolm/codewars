@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/convert-pascalcase-string-into-snake-case/solutions/javascript/me
+// http://www.codewars.com/kata/convert-pascalcase-string-into-snake-case
 
 function toUnderscore(str) {
   str += '';

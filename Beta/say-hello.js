@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/say-hello/solutions/javascript/me
+// http://www.codewars.com/kata/say-hello
 
 function greet(name){
   if(!name) return null;

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/daves-gamble/solutions/javascript/me
+// http://www.codewars.com/kata/daves-gamble
 
 const horses = n => {
   if (typeof n !== 'number' || ~~n !== n) return undefined;

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/the-range-function/solutions/javascript/me
+// http://www.codewars.com/kata/the-range-function
 
 function range(start, end, step = 1) {
   if (typeof end === 'undefined') {

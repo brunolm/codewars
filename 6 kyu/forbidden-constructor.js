@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/forbidden-constructor/solutions/javascript/me
+// http://www.codewars.com/kata/forbidden-constructor
 
 var Point = (function() {
   function Point(x, y) {

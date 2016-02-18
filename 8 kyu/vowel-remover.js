@@ -1,3 +1,3 @@
-// http://www.codewars.com/kata/vowel-remover/solutions/javascript/me
+// http://www.codewars.com/kata/vowel-remover
 
 const shortcut = (s) => s.replace(/[aeiou]/ig, '');

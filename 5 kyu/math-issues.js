@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/math-issues/solutions/javascript/me
+// http://www.codewars.com/kata/math-issues
 
 Math.round = (n) => {
   let b = n.toString(2).replace(/\d+\./, '.');

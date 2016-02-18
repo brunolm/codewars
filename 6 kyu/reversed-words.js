@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/reversed-words/solutions/javascript/me
+// http://www.codewars.com/kata/reversed-words
 
 const reverseWords = s => {
   let r = [];

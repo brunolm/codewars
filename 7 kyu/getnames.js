@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/getnames/solutions/javascript/me
+// http://www.codewars.com/kata/getnames
 
 const getNames = d => new Linq(d).Select(o => o.name).ToArray();
 

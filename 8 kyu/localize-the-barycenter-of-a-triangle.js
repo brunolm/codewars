@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/localize-the-barycenter-of-a-triangle/solutions/javascript/me
+// http://www.codewars.com/kata/localize-the-barycenter-of-a-triangle
 
 function barTriang(p1, p2, p3){
   return [

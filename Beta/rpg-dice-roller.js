@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/rpg-dice-roller/solutions/javascript/me
+// http://www.codewars.com/kata/rpg-dice-roller
 
 /**
  * Interpret dice notation and generate result.

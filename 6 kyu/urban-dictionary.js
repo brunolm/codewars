@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/urban-dictionary/solutions/javascript/me
+// http://www.codewars.com/kata/urban-dictionary
 
 var WordDictionary = function () {
   this.words = {};

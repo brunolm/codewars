@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/genetic-algorithm-series-number-5-roulette-wheel-selection/solutions/javascript/me
+// http://www.codewars.com/kata/genetic-algorithm-series-number-5-roulette-wheel-selection
 
 const select = (population, fitnesses) => {
   let sum = fitnesses.reduce((a, b) => a + b, 0);

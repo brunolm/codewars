@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/rock-paper-scissors/solutions/javascript/me
+// http://www.codewars.com/kata/rock-paper-scissors
 
 const rps = (p1, p2) => {
   const winMap = {

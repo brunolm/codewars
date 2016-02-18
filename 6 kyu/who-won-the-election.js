@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/who-won-the-election/solutions/javascript/me
+// http://www.codewars.com/kata/who-won-the-election
 
 function getWinner(listOfBallots) {
   return dominator(listOfBallots);

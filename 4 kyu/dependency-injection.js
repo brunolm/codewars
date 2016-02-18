@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/dependency-injection/solutions/javascript/me
+// http://www.codewars.com/kata/dependency-injection
 
 /**
  * Constructor DependencyInjector

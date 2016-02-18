@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/greeting-my-friends/solutions/javascript/me
+// http://www.codewars.com/kata/greeting-my-friends
 
 function greetingForAllFriends(friends){
   if (!friends || !friends.length) return null;

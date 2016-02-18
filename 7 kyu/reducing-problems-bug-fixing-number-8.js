@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/reducing-problems-bug-fixing-number-8/solutions/javascript/me
+// http://www.codewars.com/kata/reducing-problems-bug-fixing-number-8
 
 function calculateTotal(team1, team2) {
   var t1s = team1.reduce((t, c) => t + c, 0);

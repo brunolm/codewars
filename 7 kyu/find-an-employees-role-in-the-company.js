@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/find-an-employees-role-in-the-company/solutions/javascript/me
+// http://www.codewars.com/kata/find-an-employees-role-in-the-company
 
 const findEmployeesRole = (name) => {
   const emp = employees.filter(o => (o.firstName + ' ' + o.lastName) === name)[0];

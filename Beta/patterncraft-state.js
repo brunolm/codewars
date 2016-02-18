@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/patterncraft-state/solutions/javascript/me
+// http://www.codewars.com/kata/patterncraft-state
 
 class SiegeState {
   constructor() {

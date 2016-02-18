@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/array-of-primes/solutions/javascript/me
+// http://www.codewars.com/kata/array-of-primes
 
 const primes = (s, e) => {
   if (s <= 1) s = 2;

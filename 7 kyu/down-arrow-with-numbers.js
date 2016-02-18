@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/down-arrow-with-numbers/solutions/javascript/me
+// http://www.codewars.com/kata/down-arrow-with-numbers
 
 const getADownArrowOf = n => {
   let r = '';

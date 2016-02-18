@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/fix-me/solutions/javascript/me
+// http://www.codewars.com/kata/fix-me
 
 function fixMe() {
   var numbers = [];

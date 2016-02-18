@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/word-finder/solutions/javascript/me
+// http://www.codewars.com/kata/word-finder
 
 class Dictionary {
   constructor(w) {

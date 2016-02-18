@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/wilson-primes/solutions/javascript/me
+// http://www.codewars.com/kata/wilson-primes
 
 function amIWilson(p) {
   let r = ((factorial(p-1) + 1) / (p * p));

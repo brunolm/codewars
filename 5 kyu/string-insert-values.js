@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/string-insert-values/solutions/javascript/me
+// http://www.codewars.com/kata/string-insert-values
 
 var format = function (str, obj) {
   if (obj instanceof Array)

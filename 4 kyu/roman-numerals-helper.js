@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/roman-numerals-helper/solutions/javascript/me
+// http://www.codewars.com/kata/roman-numerals-helper
 
 // http://stackoverflow.com/a/22039673/340760
 var RomanNumerals = {};

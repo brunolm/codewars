@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/pad-left-and-right/solutions/javascript/me
+// http://www.codewars.com/kata/pad-left-and-right
 
 String.prototype.padLeft = function(ch, n) {
   return this.length >= n

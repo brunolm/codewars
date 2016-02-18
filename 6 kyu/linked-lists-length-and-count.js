@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/linked-lists-length-and-count/solutions/javascript/me
+// http://www.codewars.com/kata/linked-lists-length-and-count
 
 function Node(data) {
   this.data = data;

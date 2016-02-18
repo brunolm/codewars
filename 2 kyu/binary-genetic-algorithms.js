@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/binary-genetic-algorithms/solutions/javascript/me
+// http://www.codewars.com/kata/binary-genetic-algorithms
 
 var GeneticAlgorithm = function () {};
 

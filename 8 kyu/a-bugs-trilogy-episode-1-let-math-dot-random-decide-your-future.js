@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/a-bugs-trilogy-episode-1-let-math-dot-random-decide-your-future/solutions/javascript/me
+// http://www.codewars.com/kata/a-bugs-trilogy-episode-1-let-math-dot-random-decide-your-future
 
 function yourFutureCareer() {
   var career = Math.random();

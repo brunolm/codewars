@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/80-s-kids-number-1-how-many-licks-does-it-take/solutions/javascript/me
+// http://www.codewars.com/kata/80-s-kids-number-1-how-many-licks-does-it-take
 
 function totalLicks(env) {
   let keys = Object.keys(env);

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/patterncraft-command/solutions/javascript/me
+// http://www.codewars.com/kata/patterncraft-command
 
 class Probe {
   constructor() {

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/a-gift-well-spent/solutions/javascript/me
+// http://www.codewars.com/kata/a-gift-well-spent
 
 const buy = (x, arr) => {
   for (let i = 0; i < arr.length; ++i) {

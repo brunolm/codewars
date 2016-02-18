@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/hello-happy-codevarrior/solutions/javascript/me
+// http://www.codewars.com/kata/hello-happy-codevarrior
 
 function Warrior(n){
   this._name = n;  

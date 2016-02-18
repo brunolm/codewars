@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/is-this-working/solutions/javascript/me
+// http://www.codewars.com/kata/is-this-working
 
 class Counter {
   constructor() {

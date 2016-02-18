@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/random-sequence-generator/solutions/javascript/me
+// http://www.codewars.com/kata/random-sequence-generator
 
 class Randomizer {
   constructor(min, max) {

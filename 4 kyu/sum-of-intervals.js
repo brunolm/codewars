@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/sum-of-intervals/solutions/javascript/me
+// http://www.codewars.com/kata/sum-of-intervals
 
 function sumIntervals(intervals){
   for (let i = 0; i < intervals.length; ++i) {

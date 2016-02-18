@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/the-elegance-of-the-code/solutions/javascript/me
+// http://www.codewars.com/kata/the-elegance-of-the-code
 
 const factorial = num => {
   return num <= 1 ? 1 : Array.from({ length: num }, (x, i) => i + 1).reduce((x, y) => x * y);

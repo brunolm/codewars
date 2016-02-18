@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/rgb-to-hex-conversion/solutions/javascript/me
+// http://www.codewars.com/kata/rgb-to-hex-conversion
 
 function rgb(r, g, b) {
   return (

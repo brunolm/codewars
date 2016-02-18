@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/unexpected-parsing/solutions/javascript/me
+// http://www.codewars.com/kata/unexpected-parsing
 
 function getStatus(isBusy) {
   var msg = (isBusy ? "busy" : "available");

@@ -1,3 +1,3 @@
-// http://www.codewars.com/kata/secret-knock/solutions/javascript/me
+// http://www.codewars.com/kata/secret-knock
 
 knock(knock)()()

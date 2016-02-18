@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/return-string-of-first-characters/solutions/javascript/me
+// http://www.codewars.com/kata/return-string-of-first-characters
 
 /*       */
 const ms = (s) => s.split(' ').map(c => c[0]).join('');

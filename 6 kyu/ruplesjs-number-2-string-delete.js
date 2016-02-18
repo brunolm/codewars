@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/ruplesjs-number-2-string-delete/solutions/javascript/me
+// http://www.codewars.com/kata/ruplesjs-number-2-string-delete
 
 String.prototype.delete = function(...args) {
   let s = this.valueOf();

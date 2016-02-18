@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/split-an-array/solutions/javascript/me
+// http://www.codewars.com/kata/split-an-array
 
 function split(arr, prop) {
   let t = arr.filter(a => a[prop]);

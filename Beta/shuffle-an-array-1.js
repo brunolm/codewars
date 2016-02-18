@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/shuffle-an-array-1/solutions/javascript/me
+// http://www.codewars.com/kata/shuffle-an-array-1
 
 const shuffle = a => a.shuffle();
 

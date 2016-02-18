@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/terminal-game-number-2/solutions/javascript/me
+// http://www.codewars.com/kata/terminal-game-number-2
 
 Hero.prototype.move = function (dir) {
   let p = this.position;

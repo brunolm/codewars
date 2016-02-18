@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/ip-validation/solutions/javascript/me
+// http://www.codewars.com/kata/ip-validation
 
 function isValidIP(str) {
   return str.split(' ').reduce((b, current) => {

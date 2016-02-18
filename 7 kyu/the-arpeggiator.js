@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/the-arpeggiator/solutions/javascript/me
+// http://www.codewars.com/kata/the-arpeggiator
 
 const arpeggio = (n) => {
   if (!/^[A-G]$/.test(n)) return "unrecognised root note";

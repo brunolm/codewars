@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/lexical-this/solutions/javascript/me
+// http://www.codewars.com/kata/lexical-this
 
 var Person = function(){
   var person = {

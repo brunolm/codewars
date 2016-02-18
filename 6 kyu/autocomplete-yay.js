@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/autocomplete-yay/solutions/javascript/me
+// http://www.codewars.com/kata/autocomplete-yay
 
 const autocomplete = (i, d) => {
   i = i.replace(/[^a-z]/gi, '');

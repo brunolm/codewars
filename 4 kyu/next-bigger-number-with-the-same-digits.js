@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/next-bigger-number-with-the-same-digits/solutions/javascript/me
+// http://www.codewars.com/kata/next-bigger-number-with-the-same-digits
 
 function nextBigger(n) {
   let s = n.toString().split('').map(v => +v);

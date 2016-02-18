@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/classy-extentions/solutions/javascript/me
+// http://www.codewars.com/kata/classy-extentions
 
 class Cat extends Animal {
   speak() {

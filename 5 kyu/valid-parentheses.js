@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/valid-parentheses/solutions/javascript/me
+// http://www.codewars.com/kata/valid-parentheses
 
 function validParentheses(parens){
   return parens.split('').reduce((open, b) => {

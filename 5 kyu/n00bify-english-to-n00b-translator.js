@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/n00bify-english-to-n00b-translator/solutions/javascript/me
+// http://www.codewars.com/kata/n00bify-english-to-n00b-translator
 
 function n00bify(text)
 {

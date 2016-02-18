@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/my-smallest-code-interpreter-aka-brainf-star-star-k/solutions/javascript/me
+// http://www.codewars.com/kata/my-smallest-code-interpreter-aka-brainf-star-star-k
 
 function brainLuck(code, input) {
   let output = [];

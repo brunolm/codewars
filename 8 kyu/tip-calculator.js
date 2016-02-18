@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/tip-calculator/solutions/javascript/me
+// http://www.codewars.com/kata/tip-calculator
 
 function calculateTip(amount, rating) {
   if (!/^(terrible|poor|good|great|excellent)$/i.test(rating))

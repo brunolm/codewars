@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/find-the-odd-int/solutions/javascript/me
+// http://www.codewars.com/kata/find-the-odd-int
 
 function findOdd(A) {
   let map = { };

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/whats-up-next/solutions/javascript/me
+// http://www.codewars.com/kata/whats-up-next
 
 function nextItem(a, item) {
   let found = false;

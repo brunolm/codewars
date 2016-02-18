@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/grasshopper-make-change/solutions/javascript/me
+// http://www.codewars.com/kata/grasshopper-make-change
 
 var money = 10
 var candy = 1.42

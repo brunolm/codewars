@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/compoundarray/solutions/javascript/me
+// http://www.codewars.com/kata/compoundarray
 
 function compoundArray(a, b) {
   let r = [];

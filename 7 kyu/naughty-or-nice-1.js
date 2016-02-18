@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/naughty-or-nice-1/solutions/javascript/me
+// http://www.codewars.com/kata/naughty-or-nice-1
 
 const naughtyOrNice = (data) => {
   data = JSON.stringify(data);

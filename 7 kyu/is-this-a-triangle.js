@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/is-this-a-triangle/solutions/javascript/me
+// http://www.codewars.com/kata/is-this-a-triangle
 
 const isTriangle = (a, b, c) => {
   return a < b + c && a > b - c

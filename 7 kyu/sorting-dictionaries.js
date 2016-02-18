@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/sorting-dictionaries/solutions/javascript/me
+// http://www.codewars.com/kata/sorting-dictionaries
 
 const sortDict = (d) => {
   let r = [];

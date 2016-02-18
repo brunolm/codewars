@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/tug-o-war/solutions/javascript/me
+// http://www.codewars.com/kata/tug-o-war
 
 const tug_o_war = ([t1, t2]) => {
   let a = cpa(t1, t2);

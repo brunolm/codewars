@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/adding-big-numbers/solutions/javascript/me
+// http://www.codewars.com/kata/adding-big-numbers
 
 function add(a, b) {
   let left = a.split('');

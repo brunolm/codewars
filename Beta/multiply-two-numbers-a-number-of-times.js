@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/multiply-two-numbers-a-number-of-times/solutions/javascript/me
+// http://www.codewars.com/kata/multiply-two-numbers-a-number-of-times
 
 function multiplyBy(x, y, n) {
   let r = [];

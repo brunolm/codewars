@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/hangman/solutions/javascript/me
+// http://www.codewars.com/kata/hangman
 
 const hangman = (word, letters) => {
   let lives = 7;

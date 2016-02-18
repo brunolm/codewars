@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/mumbling/solutions/javascript/me
+// http://www.codewars.com/kata/mumbling
 
 const accum = (s) => {
   return s.replace(/./g, (m, i) => {

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/80-s-kids-number-2-help-alf-find-his-spaceship/solutions/javascript/me
+// http://www.codewars.com/kata/80-s-kids-number-2-help-alf-find-his-spaceship
 
 function findSpaceship(map) {
   if (!map || map.indexOf('X') === -1) return `Spaceship lost forever.`;

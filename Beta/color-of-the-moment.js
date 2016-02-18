@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/color-of-the-moment/solutions/javascript/me
+// http://www.codewars.com/kata/color-of-the-moment
 
 const hexToTime = hex => {
   return hex.match(/[0-9a-f]{2}/gi).map((m, i) => {

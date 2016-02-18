@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/smallest-unused-id/solutions/javascript/me
+// http://www.codewars.com/kata/smallest-unused-id
 
 const nextId = (ids) => {
   let id = ids.filter((id, i) => ids.indexOf(i) === -1);

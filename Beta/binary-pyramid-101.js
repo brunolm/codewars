@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/binary-pyramid-101/solutions/javascript/me
+// http://www.codewars.com/kata/binary-pyramid-101
 
 const BinaryPyramid = (m, n) => {
   let bin = Array.from(Array(n-m+1), (e, i) => m + i)

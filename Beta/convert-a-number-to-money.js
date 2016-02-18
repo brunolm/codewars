@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/convert-a-number-to-money/solutions/javascript/me
+// http://www.codewars.com/kata/convert-a-number-to-money
 
 const numberToMoney = n => {
   if (isNaN(n) || typeof n !== 'number') return 'NaN';

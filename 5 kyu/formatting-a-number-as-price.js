@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/formatting-a-number-as-price/solutions/javascript/me
+// http://www.codewars.com/kata/formatting-a-number-as-price
 
 const numberToPrice = n => {
   if (isNaN(n) || typeof n !== 'number') return 'NaN';

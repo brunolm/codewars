@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/regular-ball-super-ball/solutions/javascript/me
+// http://www.codewars.com/kata/regular-ball-super-ball
 
 var Ball = function(ballType) {
   this.ballType = ballType||"regular"

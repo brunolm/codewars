@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/sum-of-two-squares/solutions/javascript/me
+// http://www.codewars.com/kata/sum-of-two-squares
 
 function allSquaredPairs(num) {
   //console.log(num);

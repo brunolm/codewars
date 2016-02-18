@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/product-of-consecutive-fib-numbers/solutions/javascript/me
+// http://www.codewars.com/kata/product-of-consecutive-fib-numbers
 
 function productFib(prod) {
   let prev = 0;

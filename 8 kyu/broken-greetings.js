@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/broken-greetings/solutions/javascript/me
+// http://www.codewars.com/kata/broken-greetings
 
 function Person(name){
   this.name = name;

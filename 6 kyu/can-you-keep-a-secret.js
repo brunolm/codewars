@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/can-you-keep-a-secret/solutions/javascript/me
+// http://www.codewars.com/kata/can-you-keep-a-secret
 
 function createSecretHolder(secret) {
   return {

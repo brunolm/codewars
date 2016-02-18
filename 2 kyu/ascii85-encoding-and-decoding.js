@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/ascii85-encoding-and-decoding/solutions/javascript/me
+// http://www.codewars.com/kata/ascii85-encoding-and-decoding
 
 const fill = (s, c) => {
   let r = s.split('');

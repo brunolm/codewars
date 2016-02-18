@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/did-you-mean-dot-dot-dot/solutions/javascript/me
+// http://www.codewars.com/kata/did-you-mean-dot-dot-dot
 
 function Dictionary(words) {
   this.words = words;

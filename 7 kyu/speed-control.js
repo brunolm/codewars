@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/speed-control/solutions/javascript/me
+// http://www.codewars.com/kata/speed-control
 
 const gps = (s, x) => {
   let r = [];

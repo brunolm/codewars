@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/most-likely/solutions/javascript/me
+// http://www.codewars.com/kata/most-likely
 
 function mostLikely(prob1,prob2){
   let p1 = prob1.split(':');

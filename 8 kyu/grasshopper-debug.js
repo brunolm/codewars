@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/grasshopper-debug/solutions/javascript/me
+// http://www.codewars.com/kata/grasshopper-debug
 
 function weatherInfo (temp) {
   var c = convertToCelsius(temp)

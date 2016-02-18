@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/object-search-and-replace/solutions/javascript/me
+// http://www.codewars.com/kata/object-search-and-replace
 
 // Trolling OP 1.0
 function solution (data, replace) {

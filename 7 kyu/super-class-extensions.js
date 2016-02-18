@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/super-class-extensions/solutions/javascript/me
+// http://www.codewars.com/kata/super-class-extensions
 
 class Animal { 
   constructor(name) {

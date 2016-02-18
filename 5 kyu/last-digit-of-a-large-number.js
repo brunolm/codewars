@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/last-digit-of-a-large-number/solutions/javascript/me
+// http://www.codewars.com/kata/last-digit-of-a-large-number
 
 var lastDigit = function(str1, str2){  
   let t = [

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/ghostbusters-whitespace-removal/solutions/javascript/me
+// http://www.codewars.com/kata/ghostbusters-whitespace-removal
 
 const ghostBusters = (building) => {
   if (/ /.test(building))

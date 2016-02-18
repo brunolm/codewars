@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/strip-url-params/solutions/javascript/me
+// http://www.codewars.com/kata/strip-url-params
 
 // http://stackoverflow.com/a/3855394/340760
 function getQueryString(url) {

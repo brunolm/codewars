@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/classy-classes/solutions/javascript/me
+// http://www.codewars.com/kata/classy-classes
 
 class Person {
   constructor(n,a) {

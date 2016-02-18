@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/this-is-a-problem/solutions/javascript/me
+// http://www.codewars.com/kata/this-is-a-problem
 
 function NameMe(first, last) {
     this.firstName = first;

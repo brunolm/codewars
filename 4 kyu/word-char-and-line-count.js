@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/word-char-and-line-count/solutions/javascript/me
+// http://www.codewars.com/kata/word-char-and-line-count
 
 function DocumentParser(reader) {
   this.reader = reader;

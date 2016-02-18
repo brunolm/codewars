@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/find-the-unique-number/solutions/javascript/me
+// http://www.codewars.com/kata/find-the-unique-number
 
 // const findUnique = a => a.reduce((x, y, i) => a.filter(z => z == y).length == 1 ? y : x, null);
 

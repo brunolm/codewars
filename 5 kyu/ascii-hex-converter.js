@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/ascii-hex-converter/solutions/javascript/me
+// http://www.codewars.com/kata/ascii-hex-converter
 
 class Converter {
   static toAscii(hex) {

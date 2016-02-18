@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/sometimes/solutions/javascript/me
+// http://www.codewars.com/kata/sometimes
 
 const sometimes = f => {
   var i = 0;

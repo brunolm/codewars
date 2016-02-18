@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/i-spy/solutions/javascript/me
+// http://www.codewars.com/kata/i-spy
 
 function spyOn (func) {
   return new spyOnClass(func);

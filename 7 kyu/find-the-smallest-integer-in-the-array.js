@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/find-the-smallest-integer-in-the-array/solutions/javascript/me
+// http://www.codewars.com/kata/find-the-smallest-integer-in-the-array
 
 class SmallestIntegerFinder {
   findSmallestInt(args) {

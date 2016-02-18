@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/rot13-1/solutions/javascript/me
+// http://www.codewars.com/kata/rot13-1
 
 function rot13(m){
   return m.split('').map(x => {

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/broken-counter/solutions/javascript/me
+// http://www.codewars.com/kata/broken-counter
 
 function Counter() {
   this.value = 0;

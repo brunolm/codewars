@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/counting-duplicates/solutions/javascript/me
+// http://www.codewars.com/kata/counting-duplicates
 
 const duplicateCount = (s) => {
   s = Array.prototype.slice.apply(s.toLowerCase()).sort().join('');

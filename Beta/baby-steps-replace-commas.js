@@ -1,3 +1,3 @@
-// http://www.codewars.com/kata/baby-steps-replace-commas/solutions/javascript/me
+// http://www.codewars.com/kata/baby-steps-replace-commas
 
 const commaReplacer = str => str.replace(/,/g, ' ');

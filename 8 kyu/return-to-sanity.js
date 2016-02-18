@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/return-to-sanity/solutions/javascript/me
+// http://www.codewars.com/kata/return-to-sanity
 
 function mystery() {
   var results =

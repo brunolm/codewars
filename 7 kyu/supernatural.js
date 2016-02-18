@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/supernatural/solutions/javascript/me
+// http://www.codewars.com/kata/supernatural
 
 const bob = (x) => {
   if (drunkenDoodling[x]) {

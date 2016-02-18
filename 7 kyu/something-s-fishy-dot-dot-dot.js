@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/something-s-fishy-dot-dot-dot/solutions/javascript/me
+// http://www.codewars.com/kata/something-s-fishy-dot-dot-dot
 
 function isTotal3() {
   var simpleVariable = 1;

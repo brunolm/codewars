@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/int32-to-ipv4/solutions/javascript/me
+// http://www.codewars.com/kata/int32-to-ipv4
 
 const int32ToIp = n => {
   return n.toString(2).pad('0', 32).match(/\d{8}/g).map(c => parseInt(c, 2)).join('.')

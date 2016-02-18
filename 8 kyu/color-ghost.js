@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/color-ghost/solutions/javascript/me
+// http://www.codewars.com/kata/color-ghost
 
 var Ghost = function() {
   let colors = [ 'red', 'white', 'yellow', 'purple', 'red' ];

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/base64-encoding/solutions/javascript/me
+// http://www.codewars.com/kata/base64-encoding
 
 String.base64Map = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';
 

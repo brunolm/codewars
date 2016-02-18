@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/ninja-vs-samurai-attack-plus-block/solutions/javascript/me
+// http://www.codewars.com/kata/ninja-vs-samurai-attack-plus-block
 
 Position = {
   high: 'h',

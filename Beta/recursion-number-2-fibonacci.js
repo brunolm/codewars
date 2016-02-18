@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/recursion-number-2-fibonacci/solutions/javascript/me
+// http://www.codewars.com/kata/recursion-number-2-fibonacci
 
 const fibonacci = n => {
   if (n <= 2) return 1;

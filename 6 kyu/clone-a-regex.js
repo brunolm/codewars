@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/clone-a-regex/solutions/javascript/me
+// http://www.codewars.com/kata/clone-a-regex
 
 RegExp.clone = function(regex) {
   return regex.clone();

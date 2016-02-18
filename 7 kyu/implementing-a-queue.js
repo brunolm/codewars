@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/implementing-a-queue/solutions/javascript/me
+// http://www.codewars.com/kata/implementing-a-queue
 
 class Queue {
   constructor() {

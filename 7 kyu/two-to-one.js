@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/two-to-one/solutions/javascript/me
+// http://www.codewars.com/kata/two-to-one
 
 const longest = (s1, s2) => {
   let r = [];

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/strip-comments/solutions/javascript/me
+// http://www.codewars.com/kata/strip-comments
 
 function solution(input, markers) {
   var re = new RegExp('\\s*[' + markers.join('') + ']');

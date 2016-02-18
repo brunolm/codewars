@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/difference-between-biggest-2-numbers/solutions/javascript/me
+// http://www.codewars.com/kata/difference-between-biggest-2-numbers
 
 const diffBig2 = arr => {
   let b1 = Math.max(...arr);

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/switch-slash-case-bug-fixing-number-6/solutions/javascript/me
+// http://www.codewars.com/kata/switch-slash-case-bug-fixing-number-6
 
 function evalObject(value){
   var result = 0;

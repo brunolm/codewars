@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/count-strings-in-objects/solutions/javascript/me
+// http://www.codewars.com/kata/count-strings-in-objects
 
 const strCount = o => {
   let c = 0;

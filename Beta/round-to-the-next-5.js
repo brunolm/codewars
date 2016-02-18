@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/round-to-the-next-5/solutions/javascript/me
+// http://www.codewars.com/kata/round-to-the-next-5
 
 function roundToNext5(n){
   if (n%5) {

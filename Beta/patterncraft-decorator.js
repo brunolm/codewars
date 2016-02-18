@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/patterncraft-decorator/solutions/javascript/me
+// http://www.codewars.com/kata/patterncraft-decorator
 
 class Marine {
   constructor(_damage, _armor) {

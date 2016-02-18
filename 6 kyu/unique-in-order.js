@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/unique-in-order/solutions/javascript/me
+// http://www.codewars.com/kata/unique-in-order
 
 const uniqueInOrder = (a) => {
   let r = [];

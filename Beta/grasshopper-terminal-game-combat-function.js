@@ -1,3 +1,3 @@
-// http://www.codewars.com/kata/grasshopper-terminal-game-combat-function/solutions/javascript/me
+// http://www.codewars.com/kata/grasshopper-terminal-game-combat-function
 
 const combat = (h, d) => h - d

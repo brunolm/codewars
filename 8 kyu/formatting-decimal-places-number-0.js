@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/formatting-decimal-places-number-0/solutions/javascript/me
+// http://www.codewars.com/kata/formatting-decimal-places-number-0
 
 const twoDecimalPlaces = n => +n.toFixed(2)
 

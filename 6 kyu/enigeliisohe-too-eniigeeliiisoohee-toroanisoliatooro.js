@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/enigeliisohe-too-eniigeeliiisoohee-toroanisoliatooro/solutions/javascript/me
+// http://www.codewars.com/kata/enigeliisohe-too-eniigeeliiisoohee-toroanisoliatooro
 
 const alp = 'abcdefghijklmnopqrstuvwxyz';
 

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/vigenere-cipher-helper/solutions/javascript/me
+// http://www.codewars.com/kata/vigenere-cipher-helper
 
 function VigenèreCipher(key, abc) {
   this.encode = function (s) {

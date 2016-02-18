@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/invalid-login-bug-fixing-number-11/solutions/javascript/me
+// http://www.codewars.com/kata/invalid-login-bug-fixing-number-11
 
 function validate(username, password) {
   if (/\|{2}|\/{2}/.test(password)) {

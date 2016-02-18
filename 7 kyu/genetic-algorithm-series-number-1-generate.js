@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/genetic-algorithm-series-number-1-generate/solutions/javascript/me
+// http://www.codewars.com/kata/genetic-algorithm-series-number-1-generate
 
 const generate = length => Array.from({length}, x => ~~(Math.random() * 2)).join('');
 

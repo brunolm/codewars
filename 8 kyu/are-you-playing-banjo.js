@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/are-you-playing-banjo/solutions/javascript/me
+// http://www.codewars.com/kata/are-you-playing-banjo
 
 function areYouPlayingBanjo(name) {
   if (/^r/i.test(name)) {

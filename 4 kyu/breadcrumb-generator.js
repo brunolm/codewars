@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/breadcrumb-generator/solutions/javascript/me
+// http://www.codewars.com/kata/breadcrumb-generator
 
 // If one day I refactor this I might consider adding you on LinkedIn, but this code bellow is shameful
 

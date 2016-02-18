@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/square-every-digit/solutions/javascript/me
+// http://www.codewars.com/kata/square-every-digit
 
 const squareDigits = (n) => +(n + '').split('').map(x => x * x).join('')
 

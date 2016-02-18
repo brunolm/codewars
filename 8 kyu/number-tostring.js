@@ -1,3 +1,3 @@
-// http://www.codewars.com/kata/number-tostring/solutions/javascript/me
+// http://www.codewars.com/kata/number-tostring
 
 var a = 123 + ''

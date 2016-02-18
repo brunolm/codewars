@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/class-conundrum-bug-fixing-number-7/solutions/javascript/me
+// http://www.codewars.com/kata/class-conundrum-bug-fixing-number-7
 
 class List {
   constructor(type) {

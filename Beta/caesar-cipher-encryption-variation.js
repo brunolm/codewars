@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/caesar-cipher-encryption-variation/solutions/javascript/me
+// http://www.codewars.com/kata/caesar-cipher-encryption-variation
 
 const alp = Array.from(Array('z'.charCodeAt(0) - 'a'.charCodeAt(0) + 1), (x, i) => String.fromCharCode(i + 97)).join('');
 const caesarEncode = (s, shift) => {

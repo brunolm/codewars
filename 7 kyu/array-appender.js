@@ -1,3 +1,3 @@
-// http://www.codewars.com/kata/array-appender/solutions/javascript/me
+// http://www.codewars.com/kata/array-appender
 
 function appendArrays (arr1, arr2) { return arr1.concat(arr2) }

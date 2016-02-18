@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/insert-dashes-2/solutions/javascript/me
+// http://www.codewars.com/kata/insert-dashes-2
 
 const insertDashII = n => `${n}`.replace(/([13579])(?=[13579])/g, "$1-").replace(/([2468])(?=[2468])/g, "$1*");
 

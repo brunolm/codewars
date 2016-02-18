@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/breaking-search-bad/solutions/javascript/me
+// http://www.codewars.com/kata/breaking-search-bad
 
 const titles = TITLES;
 

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/the-vowel-code/solutions/javascript/me
+// http://www.codewars.com/kata/the-vowel-code
 
 const encode = s => s.replace(/[aeiou]/gi, m => '0aeiou'.indexOf(m));
 

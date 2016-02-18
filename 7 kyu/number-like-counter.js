@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/number-like-counter/solutions/javascript/me
+// http://www.codewars.com/kata/number-like-counter
 
 function Counter(){
   this.c = 0;

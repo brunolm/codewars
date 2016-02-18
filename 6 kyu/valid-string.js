@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/valid-string/solutions/javascript/me
+// http://www.codewars.com/kata/valid-string
 
 const validWord = (d, w) => new RegExp(`^(${d.join('|')})+$`).test(w);
 

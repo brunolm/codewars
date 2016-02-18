@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/keep-up-the-hoop/solutions/javascript/me
+// http://www.codewars.com/kata/keep-up-the-hoop
 
 function hoopCount (n) {
    if (n>=10) return "Great, now move on to tricks";

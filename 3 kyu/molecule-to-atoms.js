@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/molecule-to-atoms/solutions/javascript/me
+// http://www.codewars.com/kata/molecule-to-atoms
 
 function parseMolecule(formula) {
   let result = {};

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/jojos-bizarre-kata/solutions/javascript/me
+// http://www.codewars.com/kata/jojos-bizarre-kata
 
 const isJojo = n => {};
 

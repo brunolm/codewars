@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/selective-fear-of-numbers/solutions/javascript/me
+// http://www.codewars.com/kata/selective-fear-of-numbers
 
 const AmIAfraid = (d, n) =>
   (/Mo/.test(d) && n == 12)

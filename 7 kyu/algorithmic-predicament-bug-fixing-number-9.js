@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/algorithmic-predicament-bug-fixing-number-9/solutions/javascript/me
+// http://www.codewars.com/kata/algorithmic-predicament-bug-fixing-number-9
 
 var highestAge = (a, b) => {
   let r = new Linq(a.concat(b))

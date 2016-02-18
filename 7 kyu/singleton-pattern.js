@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/singleton-pattern/solutions/javascript/me
+// http://www.codewars.com/kata/singleton-pattern
 
 class Singleton {
   constructor() {

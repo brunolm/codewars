@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/shifty-closures/solutions/javascript/me
+// http://www.codewars.com/kata/shifty-closures
 
 var greet_abe = function() {
   name = 'Abe';

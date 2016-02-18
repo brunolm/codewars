@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/converting-integer-to-currency-format/solutions/javascript/me
+// http://www.codewars.com/kata/converting-integer-to-currency-format
 
 function toCurrency(price){
   return numberFormat(price);

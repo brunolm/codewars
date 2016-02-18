@@ -1,3 +1,3 @@
-// http://www.codewars.com/kata/parse-integers-in-array/solutions/javascript/me
+// http://www.codewars.com/kata/parse-integers-in-array
 
 const parseNumbers = a => a.map(n => ~~n);

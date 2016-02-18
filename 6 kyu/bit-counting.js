@@ -1,3 +1,3 @@
-// http://www.codewars.com/kata/bit-counting/solutions/javascript/me
+// http://www.codewars.com/kata/bit-counting
 
 const countBits = (n) => n.toString(2).replace(/0/g, '').length;

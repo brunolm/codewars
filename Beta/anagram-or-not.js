@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/anagram-or-not/solutions/javascript/me
+// http://www.codewars.com/kata/anagram-or-not
 
 function isAnagram(test, original){
   test = test.toLowerCase().replace(/[^a-z0-9]/g, '');

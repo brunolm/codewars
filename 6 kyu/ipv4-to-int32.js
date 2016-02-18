@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/ipv4-to-int32/solutions/javascript/me
+// http://www.codewars.com/kata/ipv4-to-int32
 
 function ipToInt32(ip){
   return parseInt(ip.split('.').reduce((a, c) => {

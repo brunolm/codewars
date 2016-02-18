@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/grasshopper-shopping-list/solutions/javascript/me
+// http://www.codewars.com/kata/grasshopper-shopping-list
 
 //Create variables here
 var sandwiches = 4,

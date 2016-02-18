@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/configure-an-express-server/solutions/javascript/me
+// http://www.codewars.com/kata/configure-an-express-server
 
 const solution = () => {
   var express = require('express');

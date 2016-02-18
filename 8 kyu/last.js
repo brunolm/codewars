@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/last/solutions/javascript/me
+// http://www.codewars.com/kata/last
 
 const last = (...l) => (l = [].concat(...l)).length === 1 ? l[0].pop() : l.pop();
 String.prototype.pop = function(){return this.slice(-1);};

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/grasshopper-terminal-game-turn-function/solutions/javascript/me
+// http://www.codewars.com/kata/grasshopper-terminal-game-turn-function
 
 function doTurn () {
   rollDice()

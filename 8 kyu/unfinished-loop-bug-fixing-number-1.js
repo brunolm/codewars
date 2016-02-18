@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/unfinished-loop-bug-fixing-number-1/solutions/javascript/me
+// http://www.codewars.com/kata/unfinished-loop-bug-fixing-number-1
 
 function createArray(number)
 {

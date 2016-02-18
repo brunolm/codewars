@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/prime-factors/solutions/javascript/me
+// http://www.codewars.com/kata/prime-factors
 
 const prime_factors = (n) => {
   let r = [];

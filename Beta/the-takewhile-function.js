@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/the-takewhile-function/solutions/javascript/me
+// http://www.codewars.com/kata/the-takewhile-function
 
 function takeWhile (arr, pred) {
   return TakeWhile(arr, pred);

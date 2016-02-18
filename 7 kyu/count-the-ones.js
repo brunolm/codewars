@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/count-the-ones/solutions/javascript/me
+// http://www.codewars.com/kata/count-the-ones
 
 function hammingWeight(number){
   var converted = [];

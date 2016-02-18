@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/split-the-bill/solutions/javascript/me
+// http://www.codewars.com/kata/split-the-bill
 
 const splitTheBill = (x) => {
   let keys = Object.keys(x);

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/lazy-evaluation/solutions/javascript/me
+// http://www.codewars.com/kata/lazy-evaluation
 
 function Lazy() {
   this.callStack = [];

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/find-the-middle-element/solutions/javascript/me
+// http://www.codewars.com/kata/find-the-middle-element
 
 var gimme = (args) => {
   const max = Math.max(...args);

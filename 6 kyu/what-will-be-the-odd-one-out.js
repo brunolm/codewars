@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/what-will-be-the-odd-one-out/solutions/javascript/me
+// http://www.codewars.com/kata/what-will-be-the-odd-one-out
 
 const oddOneOut = s => { /* meh boring */
   let set = new Set();

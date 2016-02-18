@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/cambridge-word-scramble/solutions/javascript/me
+// http://www.codewars.com/kata/cambridge-word-scramble
 
 const mixwords = s => {
   if (typeof s !== 'string') return undefined;

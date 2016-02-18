@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/naughty-or-nice/solutions/javascript/me
+// http://www.codewars.com/kata/naughty-or-nice
 
 function getNamesByNice(people, wasNice) {
   return people.reduce(function(prev, current) {

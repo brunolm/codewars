@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/sevenate9/solutions/javascript/me
+// http://www.codewars.com/kata/sevenate9
 
 function sevenAte9(str){
 

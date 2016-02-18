@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/transportation-on-vacation/solutions/javascript/me
+// http://www.codewars.com/kata/transportation-on-vacation
 
 function rentalCarCost(d) {
   let m = 0;

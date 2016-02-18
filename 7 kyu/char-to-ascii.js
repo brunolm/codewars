@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/char-to-ascii/solutions/javascript/me
+// http://www.codewars.com/kata/char-to-ascii
 
 const charToAscii = s => !s ? null : s.split('')
   .reduce((a, c) => {

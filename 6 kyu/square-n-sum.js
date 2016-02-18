@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/square-n-sum/solutions/javascript/me
+// http://www.codewars.com/kata/square-n-sum
 
 function squareSum(numbers){
   return numbers.reduce((a, c) => {

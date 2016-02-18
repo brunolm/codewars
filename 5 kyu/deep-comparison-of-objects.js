@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/deep-comparison-of-objects/solutions/javascript/me
+// http://www.codewars.com/kata/deep-comparison-of-objects
 
 const _ = require('lodash');
 

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/sum-of-the-salary/solutions/javascript/me
+// http://www.codewars.com/kata/sum-of-the-salary
 
 var person = [];
 

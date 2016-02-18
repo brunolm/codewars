@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/reverse-a-number/solutions/javascript/me
+// http://www.codewars.com/kata/reverse-a-number
 
 function reverseNumber(n) {
   let s = n < 0 ? '-' : '';

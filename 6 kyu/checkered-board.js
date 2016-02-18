@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/checkered-board/solutions/javascript/me
+// http://www.codewars.com/kata/checkered-board
 
 const ws = String.fromCharCode(9633);
 const bs = String.fromCharCode(9632);

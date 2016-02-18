@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/semi-optional/solutions/javascript/me
+// http://www.codewars.com/kata/semi-optional
 
 function wrap(value) {
   return  {

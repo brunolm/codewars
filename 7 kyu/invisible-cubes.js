@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/invisible-cubes/solutions/javascript/me
+// http://www.codewars.com/kata/invisible-cubes
 
 const notVisibleCubes = (n) => {
   if (n < 3) return 0;

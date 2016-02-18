@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/mod4-regex/solutions/javascript/me
+// http://www.codewars.com/kata/mod4-regex
 
 /**
  * Examine the last two digits.

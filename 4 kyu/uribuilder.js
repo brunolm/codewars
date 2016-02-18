@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/uribuilder/solutions/javascript/me
+// http://www.codewars.com/kata/uribuilder
 
 var UriBuilder = function(url) {
   this.baseUrl = url.split('?')[0];

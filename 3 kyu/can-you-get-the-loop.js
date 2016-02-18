@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/can-you-get-the-loop/solutions/javascript/me
+// http://www.codewars.com/kata/can-you-get-the-loop
 
 function loop_size(node){
   let set = [node]

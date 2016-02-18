@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/all-none-and-any/solutions/javascript/me
+// http://www.codewars.com/kata/all-none-and-any
 
 Array.prototype.all = function (p) {
   return new Linq(this).All(p);

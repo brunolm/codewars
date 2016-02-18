@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/multiples-of-3-and-5/solutions/javascript/me
+// http://www.codewars.com/kata/multiples-of-3-and-5
 
 function solution(n) {
   return Array.apply(null, { length: n })

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/permutations/solutions/javascript/me
+// http://www.codewars.com/kata/permutations
 
 function permutations(string) {
   if (string.constructor !== Array) {

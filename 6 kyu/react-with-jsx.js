@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/react-with-jsx/solutions/javascript/me
+// http://www.codewars.com/kata/react-with-jsx
 
 let React = require('react')
 

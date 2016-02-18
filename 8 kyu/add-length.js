@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/add-length/solutions/javascript/me
+// http://www.codewars.com/kata/add-length
 
 function addLength(str){
   return str.split(' ').reduce((a, w) => {

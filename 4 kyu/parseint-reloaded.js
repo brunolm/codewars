@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/parseint-reloaded/solutions/javascript/me
+// http://www.codewars.com/kata/parseint-reloaded
 
 function parseInt(string) {
   let numbers = {

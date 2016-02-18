@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/maximum-length-difference/solutions/javascript/me
+// http://www.codewars.com/kata/maximum-length-difference
 
 const mxdiflg = (a1, a2) => {
   if (!a1.length || !a2.length) return -1;

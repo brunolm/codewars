@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/range-extraction/solutions/javascript/me
+// http://www.codewars.com/kata/range-extraction
 
 const solution = (list) => {
   let last;

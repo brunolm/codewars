@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/function-composition-1/solutions/javascript/me
+// http://www.codewars.com/kata/function-composition-1
 
 function compose(...args) {
   return (...a) => {

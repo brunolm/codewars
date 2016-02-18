@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/get-planet-name-by-id/solutions/javascript/me
+// http://www.codewars.com/kata/get-planet-name-by-id
 
 function getPlanetName(id){
   switch(id){

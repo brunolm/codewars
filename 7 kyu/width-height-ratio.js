@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/width-height-ratio/solutions/javascript/me
+// http://www.codewars.com/kata/width-height-ratio
 
 const calculateRatio = (w, h) => {
   for (let i = Math.min(w, h); i >= 1; --i) {

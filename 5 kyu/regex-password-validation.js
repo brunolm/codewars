@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/regex-password-validation/solutions/javascript/me
+// http://www.codewars.com/kata/regex-password-validation
 
 const validate = p => /^([A-Z]|\d){6,}$/i.test(p)
   && /[a-z]/.test(p)

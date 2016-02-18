@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/capitals-first/solutions/javascript/me
+// http://www.codewars.com/kata/capitals-first
 
 function capitalsFirst(str){
   let f = []

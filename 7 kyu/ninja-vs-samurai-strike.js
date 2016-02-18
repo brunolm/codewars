@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/ninja-vs-samurai-strike/solutions/javascript/me
+// http://www.codewars.com/kata/ninja-vs-samurai-strike
 
 var Warrior = function(name){
   this.name = name;  

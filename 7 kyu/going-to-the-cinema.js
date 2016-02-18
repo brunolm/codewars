@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/going-to-the-cinema/solutions/javascript/me
+// http://www.codewars.com/kata/going-to-the-cinema
 
 const movie = (card, ticket, perc) => {
   if (card === 0) return 2;

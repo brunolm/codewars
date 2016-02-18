@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/number-hashtag/solutions/javascript/me
+// http://www.codewars.com/kata/number-hashtag
 
 const getHashtags = (post) => (post.match(/\B#+(\w+)(?=\s|$)/g)||[]).map(s => s.replace(/^#+/, ''));
 

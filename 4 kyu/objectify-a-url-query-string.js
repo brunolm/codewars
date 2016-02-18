@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/objectify-a-url-query-string/solutions/javascript/me
+// http://www.codewars.com/kata/objectify-a-url-query-string
 
 function convertQueryToMap(query) {
   if (!query) return { };

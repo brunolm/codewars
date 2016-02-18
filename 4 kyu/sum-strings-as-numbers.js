@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/sum-strings-as-numbers/solutions/javascript/me
+// http://www.codewars.com/kata/sum-strings-as-numbers
 
 function sumStrings(a,b) {
   let left = a.split('');

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/barking-mad/solutions/javascript/me
+// http://www.codewars.com/kata/barking-mad
 
 function Dog (breed) {
   this.breed = breed;

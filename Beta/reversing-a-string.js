@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/reversing-a-string/solutions/javascript/me
+// http://www.codewars.com/kata/reversing-a-string
 
 function reverseString(str) 
 {

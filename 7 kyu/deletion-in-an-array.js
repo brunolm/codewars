@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/deletion-in-an-array/solutions/javascript/me
+// http://www.codewars.com/kata/deletion-in-an-array
 
 function deleteValues(array, pred) {
   for(var i = 0; i < array.length; i++) {

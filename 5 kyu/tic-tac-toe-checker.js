@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/tic-tac-toe-checker/solutions/javascript/me
+// http://www.codewars.com/kata/tic-tac-toe-checker
 
 const isSolved = (b) => {
    b = b.join('').replace(/,/g,'');

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/ruplesjs-number-3-string-eachchar/solutions/javascript/me
+// http://www.codewars.com/kata/ruplesjs-number-3-string-eachchar
 
 String.prototype.eachChar = function(c) {
   return this.valueOf() === ''

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/first-character-that-repeats/solutions/javascript/me
+// http://www.codewars.com/kata/first-character-that-repeats
 
 function firstDup (s) {
   let i = 0;

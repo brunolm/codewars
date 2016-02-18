@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/creating-elements-with-react/solutions/javascript/me
+// http://www.codewars.com/kata/creating-elements-with-react
 
 let React = require('react');
 

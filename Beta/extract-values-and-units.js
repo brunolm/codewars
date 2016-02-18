@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/extract-values-and-units/solutions/javascript/me
+// http://www.codewars.com/kata/extract-values-and-units
 
 const valAndUnits = s => {
   let x = s.match(/^([-]?\d+(?:\.\d+)?)\s*(.*)$/);

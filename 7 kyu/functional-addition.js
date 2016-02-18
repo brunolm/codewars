@@ -1,3 +1,3 @@
-// http://www.codewars.com/kata/functional-addition/solutions/javascript/me
+// http://www.codewars.com/kata/functional-addition
 
 const add = n => x => x + n;

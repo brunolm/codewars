@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/drink-about/solutions/javascript/me
+// http://www.codewars.com/kata/drink-about
 
 var peopleWithAgeDrink = function(old) {
   let msg = 'drink ';

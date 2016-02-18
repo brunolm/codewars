@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/scramblies/solutions/javascript/me
+// http://www.codewars.com/kata/scramblies
 
 const scramble = (s, t) => {
   if (t.length > s.length) return false;

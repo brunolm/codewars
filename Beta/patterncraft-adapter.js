@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/patterncraft-adapter/solutions/javascript/me
+// http://www.codewars.com/kata/patterncraft-adapter
 
 class MarioAdapter {
   constructor(mario) {

@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/the-span-function/solutions/javascript/me
+// http://www.codewars.com/kata/the-span-function
 
 function span(arr, predicate) {
   let success = true;

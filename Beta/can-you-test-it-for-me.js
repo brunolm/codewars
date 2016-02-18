@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/can-you-test-it-for-me/solutions/javascript/me
+// http://www.codewars.com/kata/can-you-test-it-for-me
 
 _describe('Foo', function() {
   it('instanceof', function() {

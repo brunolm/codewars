@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/grasshopper-variable-assignment-debug/solutions/javascript/me
+// http://www.codewars.com/kata/grasshopper-variable-assignment-debug
 
 var a = "dev"
 var b = "Lab"

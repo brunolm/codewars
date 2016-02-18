@@ -1,4 +1,4 @@
-// http://www.codewars.com/kata/short-long-short/solutions/javascript/me
+// http://www.codewars.com/kata/short-long-short
 
 function solution(a, b){
   let short = a.length > b.length ? b : a;
